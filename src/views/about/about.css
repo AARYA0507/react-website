@@ -1,0 +1,12 @@
+.footer-container
+{
+    background-color: antiquewhite;
+    min-height: 100vh;
+}
+
+.about-head
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
